@@ -5,7 +5,3 @@
 </a>
 
 </p>
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Creationsss" alt="Profile Views Count">
-</p>
