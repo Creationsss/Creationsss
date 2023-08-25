@@ -8,9 +8,9 @@ Creations@github:~$ pwd
 
 Creations@github:~$ cat skills.txt
 
-        Python, JavaScript, Go,
-        React, Node.js, Docker,
-        c#, c++, Java
+    Python, JavaScript, Go,
+    React, Node.js, Docker,
+    c#, c++, Java
 
 Creations@github:~$ echo $CURRENT_PROJECT
 
