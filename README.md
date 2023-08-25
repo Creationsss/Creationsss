@@ -18,5 +18,5 @@ Creations@github:~$ echo $CURRENT_PROJECT
 
 Creations@github:~$ cat /etc/contacts
 
-        🌐 Website: https://creations.works
-        ✉️ Email: creations@creations.works
+    🌐 Website: https://creations.works
+    ✉️ Email: creations@creations.works
