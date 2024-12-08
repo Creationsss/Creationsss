@@ -1,7 +1,7 @@
 # Contact Me
 - **Email**: [creations@creations.works](mailto:creations@creations.works)
 - **Discord**: creations
-
+- **Discord Server** [Atums World](https://discord.gg/DxFhhbr2pm)
 ---
 
 ## Languages
