@@ -3,8 +3,8 @@
 - **Discord**: creations
 - **Discord Server**: [Atums World](https://discord.gg/DxFhhbr2pm)
 
-- **SSH Key**: [creations.keys](https://git.creations.works/creations.keys)
-- **GPG Key**: [creations.gpg](https://git.creations.works/creations.gpg)
+- **SSH Key**: [creations.keys](https://git.creations.works/creations/.profile/raw/branch/main/public_key)
+- **GPG Key**: [creations.gpg](https://git.creations.works/creations/.profile/raw/branch/main/public_key.asc)
 
 ## Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
