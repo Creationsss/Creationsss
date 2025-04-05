@@ -19,6 +19,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Systems & General Programming:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,6 +35,8 @@
 ### Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### S3
 ![MinIO](https://img.shields.io/badge/MinIO-990000?style=for-the-badge&logo=minio&logoColor=white)
 
 ### Favorites:
@@ -45,3 +48,6 @@
 ![All Time](https://img.shields.io/endpoint?url=https://wakapi.creations.works/api/compat/shields/v1/creations/interval:all_time&label=All%20time&color=blue)
 
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=creations&api_domain=wakapi.creations.works&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi+Stats+%28All+Time%29&layout=compact)
+
+---
+![](https://media1.tenor.com/m/5ibxr0zb3HcAAAAd/i-use-arch-btw-use.gif)
