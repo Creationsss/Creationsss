@@ -1,3 +1,6 @@
+### I dont use github unless i have too
+**Forgejo** : [creations](https://git.creations.works/creations)
+
 # Contact Me
 - **Email**: [creations@creations.works](mailto:creations@creations.works)
 - **SSH Public Key**: [creations.keys](https://git.creations.works/creations/.profile/raw/branch/main/public_key)
@@ -6,7 +9,6 @@
 
 - **Discord**: creations
 - **Discord Server**: [Atums World](https://discord.gg/DxFhhbr2pm)
-- **Forgejo** : [creations](https://git.creations.works/creations)
 
 ---
 
