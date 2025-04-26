@@ -1,29 +1,4 @@
-:root {
-	--background: #1b1b2f;
-	--readme-bg: #162447;
-	--card-bg: #1f4068;
-	--card-hover-bg: #283e56;
-	--border-color: #394867;
-
-	--text-color: #e0e0e0;
-	--text-subtle: #c4c4c4;
-	--text-secondary: #a0a0a0;
-	--text-muted: #888888;
-	--link-color: #00ffff;
-
-	--button-bg: #ff6f61;
-	--button-hover-bg: #ff4b3e;
-	--button-disabled-bg: #393e46;
-
-	--progress-bg: #ffb400;
-	--progress-fill: #4ecca3;
-
-	--status-online: #00ff00;
-	--status-idle: #ffd700;
-	--status-dnd: #ff4500;
-	--status-offline: #708090;
-	--status-streaming: #8a2be2;
-
-	--blockquote-color: #dddddd;
-	--code-bg: #20232a;
+.badges {
+	background-color: transparent;
+	box-shadow: none;
 }
