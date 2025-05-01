@@ -51,4 +51,6 @@
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=creations&api_domain=wakapi.creations.works&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi+Stats+%28All+Time%29&layout=compact)
 
 ---
-![](https://media1.tenor.com/m/5ibxr0zb3HcAAAAd/i-use-arch-btw-use.gif)
+<a href="https://www.abuseipdb.com/user/201871" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/201871.svg" alt="AbuseIPDB Contributor Badge">
+</a>
