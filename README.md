@@ -6,7 +6,8 @@
 
 - **Discord**: creations
 - **Discord Server**: [Atums World](https://discord.gg/DxFhhbr2pm)
-- **Github** : [Creationsss](https://github.com/Creationsss)
+- **Forgejo**: [creations](https://git.creations.works/creations)
+- **Github** : [Creationsss](https://github.com/Creationsss) <small>I only use github if forced</small>
 
 ---
 
