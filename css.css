@@ -4,3 +4,7 @@
 	border-color: transparent;
 	max-width: 100%;
 }
+
+.activity-block-header {
+	display: none !important;
+}
