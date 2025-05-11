@@ -46,10 +46,10 @@
 ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
 
 ---
-![Last 30days](https://wakapi.creations.works/api/badge/creations/creations/interval:30_days?label=last%2030d)
-![All Time](https://img.shields.io/endpoint?url=https://wakapi.creations.works/api/compat/shields/v1/creations/interval:all_time&label=All%20time&color=blue)
+![Last 30days](https://wakapi.atums.world/api/badge/creations/creations/interval:30_days?label=last%2030d)
+![All Time](https://img.shields.io/endpoint?url=https://wakapi.atums.world/api/compat/shields/v1/creations/interval:all_time&label=All%20time&color=blue)
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=creations&api_domain=wakapi.creations.works&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi+Stats+%28All+Time%29&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=creations&api_domain=wakapi.atums.world&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi+Stats+%28All+Time%29&layout=compact)
 
 ---
 <a href="https://www.abuseipdb.com/user/201871" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
