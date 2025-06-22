@@ -9,7 +9,7 @@
 # Developer Identity
 - **SSH Public Key**: [creations.keys](https://git.creations.works/creations/.profile/raw/branch/main/public_key)
 - **GPG Public Key**: [creations.gpg](https://git.creations.works/creations/.profile/raw/branch/main/public_key.asc)
-- **Forgejo**: [creations](https://git.creations.works/creations)
+- **Gitlab**: [creations](https://heliopolis.live/creations)
 
 **GitHub**: [Creationsss](https://github.com/Creationsss) <small>(only if forced)</small>
 
@@ -23,7 +23,6 @@
 [![Dragonfly](https://img.shields.io/badge/Dragonfly-FF3366?style=for-the-badge)](https://www.dragonflydb.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Forgejo](https://img.shields.io/badge/Forgejo-171717?style=for-the-badge&logo=forgejo&logoColor=orange)](https://forgejo.org)
 
 ---
 
