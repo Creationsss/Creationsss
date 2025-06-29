@@ -9,7 +9,6 @@
 [![SSH Public Key](https://img.shields.io/badge/🔑_SSH-Public%20Key-blue?style=flat)](https://heliopolis.live/creations/creations/-/raw/main/public_key)
 [![GPG Public Key](https://img.shields.io/badge/🔐_GPG-Public%20Key-green?style=flat)](https://heliopolis.live/creations/creations/-/raw/main/public_key.asc)
 [![GitLab](https://img.shields.io/badge/GitLab-creations-orange?style=flat&logo=gitlab)](https://heliopolis.live/creations)
-[![GitHub](https://img.shields.io/badge/GitHub-Creationsss-gray?style=flat&logo=github)](https://github.com/Creationsss)
 
 ## Activity Stats
 
