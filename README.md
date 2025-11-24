@@ -1,4 +1,4 @@
-# Become a part of [Atums World](https://discord.gg/atum)
+# Become a part of [Atums World](https://discord.gg/DxFhhbr2pm)
 
 ## Contact Me
 - **Email**: [creations@creations.works](mailto:creations@creations.works)
